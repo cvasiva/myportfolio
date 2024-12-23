@@ -6,6 +6,7 @@
 
 .about-containers {
     display: flex;
+    flex-direction: row;
     gap: 2rem;
     margin-bottom: 2rem;
     margin-top: 2rem;
@@ -59,4 +60,15 @@ article {
     font-weight: 600;
     line-height: 18.16px;
     cursor: pointer;
+}
+
+@media screen and (max-width: 40em){
+    .about-containers {
+        display: flex;
+        flex-direction: column;
+        gap: 2rem;
+        margin-bottom: 2rem;
+        margin-top: 2rem;
+        width: 100%;
+    }
 }

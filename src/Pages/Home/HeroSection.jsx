@@ -14,7 +14,16 @@ export default function HeroSection() {
             HTML, CSS, and JavaScript.
           </p>
         </div>
-        <button className="btn btn-primary">Get In Touch</button>
+        <button className="btn btn-primary">
+          {" "}
+          <a
+            href="https://wa.me/916300275894?text=Hello I am looking for support with website development, Graphic design, SEO, or lead generation services"
+            target="_blank"
+            style={{ textDecoration: "none", color: "#fff" }}
+          >
+            Get In Touch{" "}
+          </a>
+        </button>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />

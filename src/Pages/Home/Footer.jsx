@@ -146,7 +146,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.linkedin.com/"
+                href="https://www.linkedin.com/in/sivanandha-k-65a0162a0/"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -170,9 +170,13 @@ function Footer() {
           </ul>
         </div>
       </div>
+      <div className="sivaflx">
+        <div>+91 6300275894</div>
+        <div>sivanandhak8@gmail.com</div>
+      </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Made with 💖 by Shiva</p>
         <div className="footer--social--icon">
           <ul>
             <li>

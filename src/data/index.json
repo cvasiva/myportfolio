@@ -29,23 +29,26 @@
     {
       "id": "1",
       "src": "./img/website3.webp",
-      "title": "Top2Get",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "Tap2Get",
+      "description": "Crafted a robust eCommerce solution specifically designed to streamline, optimize, and revolutionize modern food delivery services.",
+      "link": "View In URL",
+      "url": ""
     },
     {
       "id": "2",
       "src": "./img/website5.png",
       "title": "Aidant IT",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "Worked on the implementation of UI screens for Aidant IT Company, meeting all specified client requirements.",
+      "link": "View In URL",
+      "url": "https://aiditwebsite.vercel.app/home"
     },
     {
       "id": "3",
       "src": "./img/website8.png",
       "title": "Nexgen",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "At Nexgen, we deliver custom web designs tailored to needs, crafting responsive designs for seamless adaptation.",
+      "link": "View In URL",
+      "url": "https://nexgen-41b81.web.app/"
     }
   ],
   "portfolio1": [
@@ -54,21 +57,24 @@
       "src": "./img/website2.webp",
       "title": "Bizzlab Webste",
       "description": "Contributed to the development of an online job platform, improving user interaction and increasing job applications",
-      "link": "View In Github"
+      "link": "View In URL",
+      "url": "https://bizzlab.co.in/"
     },
     {
       "id": "2",
       "src": "./img/website7.webp",
       "title": "Bizzlab Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "Contributed to the development of an online job platform, improving user interaction and increasing job applications",
+      "link": "View In URL",
+      "url": "https://portal.bizzlab.co.in/"
     },
     {
       "id": "3",
       "src": "./img/website4.png",
       "title": "Bizzlab App",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "Contributed to the development of an online job platform, improving user interaction and increasing job applications",
+      "link": "Playstore Bizzlab",
+      "url": ""
     }
   ],
   "portfolio2": [
@@ -76,22 +82,25 @@
       "id": "1",
       "src": "./img/website1.webp",
       "title": "Jobify Website",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "Jobify is a platform that helps employers find skilled candidates trained in Accounts, Tax, Banking, BPO, and other business areas.",
+      "link": "IN progress",
+      "url": ""
     },
     {
       "id": "2",
       "src": "./img/website6.webp",
       "title": "Jobify Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "description": "Jobify is a platform that helps employers find skilled candidates trained in Accounts, Tax, Banking, BPO, and other business areas.",
+      "link": "IN progress",
+      "url": ""
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
+      "title": "DailyDesign",
+      "description": "At Design Monks, we deliver innovative UI/UX, branding, and web designs to enhance brand growth.",
+      "link": "View In URL",
+      "url": "https://dailydesign.vercel.app/"
     }
   ],
   "testimonial": [
@@ -99,25 +108,25 @@
       "id": "1",
       "count": "5",
       "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
+      "description": "Umesh improved user interaction and optimized the online job platform, boosting applications with attention to detail.",
+      "author_name": "Umesh",
+      "author_designation": "Skill elevators"
     },
     {
       "id": "2",
       "count": "5",
       "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
+      "description": "Vinod contributed significantly to the front-end development of the food delivery app, enhancing user experience.",
+      "author_name": "Vinod Kumar",
+      "author_designation": "TapToGet"
     },
     {
       "id": "3",
       "count": "5",
       "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
+      "description": "Aravind developed custom web designs at Nexgen and innovative UI/UX solutions at Design Monks, driving growth.",
+      "author_name": "Aravind",
+      "author_designation": "DailyDesign"
     }
   ]
 }
