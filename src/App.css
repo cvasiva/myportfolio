@@ -124,6 +124,10 @@ h2 {
   line-height: 27px;
 }
 
+.hero--section-title--color {
+  color: #5e3bee;
+}
+
 /* Body 2 */
 .text-md {
   color: var(--darkblue);
@@ -645,7 +649,7 @@ input[type="checkbox"] {
   line-height: 28px;
 }
 
-.sivaflx{
+.sivaflx {
   display: flex;
   flex-direction: row;
   gap: 1.5rem;
@@ -866,7 +870,7 @@ input[type="checkbox"] {
 
 /* Responsive Screens Ends*/
 
-@media screen and (max-width: 40em){
+@media screen and (max-width: 40em) {
   .hero--section {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
@@ -876,6 +880,7 @@ input[type="checkbox"] {
     gap: 32px;
     background-color: var(--bg-shade);
   }
+
   .skills--sectionex {
     display: flex;
     padding: 40.33px 15.33px 0px 15.33px;
@@ -884,9 +889,11 @@ input[type="checkbox"] {
     align-items: flex-start;
     gap: 30.667px;
   }
-  .skills--section{
+
+  .skills--section {
     padding: 40.33px 15.33px;
   }
+
   .about--section {
     display: grid;
     padding: 40.3px 15.3px;
@@ -894,6 +901,7 @@ input[type="checkbox"] {
     gap: 114.6px;
     grid-template-columns: repeat(1, 1fr);
   }
+
   .portfolio--section {
     display: flex;
     padding: 40px 15px;
@@ -901,6 +909,7 @@ input[type="checkbox"] {
     align-items: flex-start;
     gap: 40px;
   }
+
   .testimonial--section {
     display: flex;
     padding: 40px 15.3px;
@@ -909,6 +918,7 @@ input[type="checkbox"] {
     gap: 40px;
     background-color: var(--bg-shade);
   }
+
   .contact--section {
     display: flex;
     padding: 40px 15px;
@@ -918,11 +928,13 @@ input[type="checkbox"] {
     text-align: center;
     gap: 64px;
   }
-  .sivaflx{
+
+  .sivaflx {
     display: flex;
     flex-direction: column;
     gap: 0.5rem;
   }
+
   .footer--container {
     display: flex;
     padding: 40.667px 15.333px;
