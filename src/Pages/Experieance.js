@@ -122,7 +122,7 @@ const Experieance = () => {
                   <HiCheckBadge size={30} />
                   <div>
                     <h3>React Native</h3>
-                    <p>Intermediate</p>
+                    <p>Experienced</p>
                   </div>
                 </article>
                 <article>
