@@ -13,17 +13,14 @@ export default function HeroSection() {
             user-friendly web applications using modern technologies like React,
             HTML, CSS, and JavaScript.
           </p>
-        </div>
-        <button className="btn btn-primary">
-          {" "}
-          <a
-            href="https://wa.me/916300275894?text=Hello I am looking for support with website development, Graphic design, SEO, or lead generation services"
-            target="_blank"
-            style={{ textDecoration: "none", color: "#fff" }}
-          >
-            Get In Touch{" "}
-          </a>
-        </button>
+        </div>{" "}
+        <a
+          href="https://wa.me/916300275894?text=Hello I am looking for support with website development, Graphic design, SEO, or lead generation services"
+          target="_blank"
+          className="btn btn-primary mt-4"
+        >
+          Get In Touch{" "}
+        </a>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
