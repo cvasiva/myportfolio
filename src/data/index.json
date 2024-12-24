@@ -128,5 +128,31 @@
       "author_name": "Aravind",
       "author_designation": "DailyDesign"
     }
+  ],
+  "logos": [
+    {
+      "id": "1",
+      "img": "./img/nexgenlogo.png"
+    },
+    {
+      "id": "2",
+      "img": "./img/dailydesignlogo.png"
+    },
+    {
+      "id": "3",
+      "img": "./img/llogo.png"
+    },
+    {
+      "id": "4",
+      "img": "./img/BizLabLogo.png"
+    },
+    {
+      "id": "5",
+      "img": "./img/achieverslogo.png"
+    },
+    {
+      "id": "6",
+      "img": "./img/tap2getlogo.png"
+    }
   ]
 }

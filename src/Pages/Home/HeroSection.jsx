@@ -8,7 +8,7 @@ export default function HeroSection() {
             <span className="hero--section-title--color">Front-End</span> <br />
             Developer
           </h1>
-          <p className="hero--section-description">
+          <p className="hero--section-description1">
             A Front-End Developer specializing in building responsive,
             user-friendly web applications using modern technologies like React,
             HTML, CSS, and JavaScript.
