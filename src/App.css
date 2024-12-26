@@ -1,4 +1,7 @@
+
 /* Global CSS */
+
+
 
 body {
   margin: 0;
@@ -53,7 +56,7 @@ p {
 
 .btn-outline-primary {
   color: var(--primary);
-  background-color: var(--white);
+  /* background-color: var(--white); */
   border: 1px solid var(--primary);
 }
 

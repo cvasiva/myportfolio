@@ -21,6 +21,13 @@ export default function HeroSection() {
         >
           Get In Touch{" "}
         </a>
+        <a
+          href="/img/sivanandha_resume_2024.pdf"
+          className="btn btn-outline-primary ms-4 px-5 mt-4"
+          download="sivanandha_resume_2024.pdf"
+        >
+          Resume
+        </a>
       </div>
       <div className="hero--section--img">
         <img src="./img/hero_img.png" alt="Hero Section" />
