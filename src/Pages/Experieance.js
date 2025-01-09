@@ -73,8 +73,8 @@ const Experieance = () => {
                 <article>
                   <HiCheckBadge size={30} />
                   <div>
-                    <h3>SASS</h3>
-                    <p>Intermediate</p>
+                    <h3>Bootstrap</h3>
+                    <p>Experienced</p>
                   </div>
                 </article>
                 <article>
