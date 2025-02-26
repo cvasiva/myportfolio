@@ -22,9 +22,9 @@ export default function HeroSection() {
           Get In Touch{" "}
         </a>
         <a
-          href="/img/sivanandha_resume_2024.pdf"
+          href="/img/sivanandha_resume_2025.pdf"
           className="btn btn-outline-primary ms-4 px-5 mt-4"
-          download="sivanandha_resume_2024.pdf"
+          download="sivanandha_resume_2025.pdf"
         >
           Resume
         </a>
